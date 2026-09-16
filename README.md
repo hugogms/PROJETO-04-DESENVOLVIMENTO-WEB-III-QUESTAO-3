@@ -3,5 +3,5 @@
 
 ## 👨🏽‍💻 Nomes dos Integrantes:
 -	Hugo Gustavo Martins da Silva: https://github.com/hugogms
--	
+
 ## 🎯 Questão escolhida: 03
